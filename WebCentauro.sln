@@ -11,11 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidades", "CapaEntida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogicaNegocio", "CapaLogicaNegocio\CapaLogicaNegocio.csproj", "{05D3A074-70C3-4B1D-9EC9-37DA4EC2DC40}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sql", "Sql", "{E288E587-539A-4F16-BFC6-C3FD2690D233}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Desktop\TestGrupoCentauro\Ejercicio 2\SQL\ScriptsSQL_Ejercicio2_ASP.NET.sql = ..\..\..\..\Desktop\TestGrupoCentauro\Ejercicio 2\SQL\ScriptsSQL_Ejercicio2_ASP.NET.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

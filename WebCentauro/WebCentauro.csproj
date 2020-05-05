@@ -170,6 +170,7 @@
     <Content Include="Resources\validate.js-master\LICENSE" />
     <Content Include="Resources\validate.js-master\package.json" />
     <Content Include="Resources\validate.js-master\README.md" />
+    <Content Include="SQL\ScriptsSQL_Ejercicio2_ASP.NET.sql" />
     <Content Include="Template\Home.Master" />
     <Content Include="Resources\js\jquery\jquery.min.map" />
     <Content Include="Resources\js\jquery\jquery.slim.min.map" />
